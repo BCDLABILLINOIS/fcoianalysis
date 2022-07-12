@@ -1,2 +1,2 @@
 # fcoianalysis
-basic code for different fcoi analyses reported in manuscript
+basic code for different fcoi analyses of infant fNIRS data reported in under review manuscript
